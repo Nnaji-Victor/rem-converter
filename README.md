@@ -8,6 +8,10 @@ This project is suitable for hacktoberfest
 
 This is a simple project that accepts a `px`(pixel) value and returns the `rem` equivalent to the user. 
 
+## Inspiration
+
+![demo](screenshot.png)
+
 ## Tech stack
 
  - React
