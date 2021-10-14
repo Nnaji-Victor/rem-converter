@@ -1,9 +1,15 @@
+import styled from "styled-components";
+
 function App() {
   return (
-    <div className="App">
+    <StyledApp>
       rem converter
-    </div>
+    </StyledApp>
   );
 }
+
+const StyledApp = styled.main`
+
+`;
 
 export default App;
